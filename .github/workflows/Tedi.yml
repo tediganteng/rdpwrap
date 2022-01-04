@@ -21,7 +21,7 @@ jobs:
       run: make check
     - name: make distcheck
       run: make distcheck
-name: MarcelCyan
+name: Tedi
 
 on: workflow_dispatch
 
